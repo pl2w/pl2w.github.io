@@ -1,3 +1,14 @@
-body {
+body{
     text-align: center;
+    background:red;
+    font-family: 'Comic Sans MS';
+    color:yellow;
+}
+
+button{
+    background: yellow;
+    font-size:xx-large;
+    border-radius: 999999px;
+    font-family: 'Comic Sans MS';
+    color:red;
 }
